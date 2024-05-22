@@ -14,7 +14,7 @@ This is a Python-based billing software that enables users to manage their billi
 
 **GUI:** tkinter
 
-**Backend:** Pyhton
+**Backend:** Python
 
 
 ## Installation and Usage

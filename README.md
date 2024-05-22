@@ -8,7 +8,7 @@ This is a Python-based billing software that enables users to manage their billi
 
 - User-friendly interface
 - Creation of invoices and graphs
-- Inovice printing and editing
+- Invoice printing and editing
 
 ## Tech Stack
 

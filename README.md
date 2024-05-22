@@ -1,28 +1,31 @@
 # TROOP-Billing-Software
 This is a Python-based billing software that enables users to manage their billing and invoicing needs in a more efficient and organized manner. It is an easy-to-use solution that can be customized to meet your specific requirements.
 
+
+![image](https://github.com/Bhagat-Singh-Kankarwal/TROOP-Billing-Software/assets/131672704/bc899ca5-4223-4ffc-b5a6-453d31f50931)
+
 ## Features
 
 - User-friendly interface
 - Creation of invoices and graphs
 - Inovice printing and editing
 
-## Technology Stack
+## Tech Stack
 
-- Python 3.7
-- graphics.py for GUI development
-- MySQL for database management
+**GUI:** tkinter
+
+**Backend:** Pyhton
+
 
 ## Installation and Usage
 
 1. Clone the repository to your local machine
-2. Install the required dependencies along with the fonts
-3. Run `python main.py` to start the application
-4. Use the application to create invoices and manage your billing and invoicing needs.
-
-Modules required: 
-
-	1) graphics.py
-	2) matplotlib
-	3) mysql.connector
-	4) pyautogui
+2. Install the fonts from the **fonts** directory
+3. To install modules
+```bash
+pip install -r requirements.txt
+```
+4. Run the software
+```bash
+python main.py
+```
